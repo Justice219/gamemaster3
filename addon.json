@@ -1,0 +1,14 @@
+{
+  "title": "Gamemaster 3",
+  "type": "ServerContent",
+  "tags": [
+    "fun",
+    "roleplay",
+    "realism"
+  ],
+  "ignore": [
+    "*.git",
+    "*.gitattributes",
+    "*.txt"
+  ]
+}
