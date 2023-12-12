@@ -6,8 +6,7 @@ Advanced gamemaster system developed for [Garry's Mod](https://gmod.facepunch.co
 
 
 ## API Reference
-
-#### Get all items
+Ensure the usage of the gm3.Loaded hook to make sure gamemaster3 exists in your current context when addons are loading.
 
 ```lua
 GM3Module.new(name, description, author, args, func)
